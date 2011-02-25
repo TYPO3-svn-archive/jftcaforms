@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "jftcaforms".
 #
-# Auto generated 26-12-2010 21:27
+# Auto generated 25-02-2011 20:01
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -29,12 +29,12 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '0.0.1',
+	'version' => '0.0.2',
 	'constraints' => array(
 		'depends' => array(
 			'cms' => '',
 			'php' => '5.0.0-5.3.99',
-			'typo3' => '4.3.0-4.4.99',
+			'typo3' => '4.3.0-4.5.99',
 		),
 		'conflicts' => array(
 		),
