@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "jftcaforms".
 #
-# Auto generated 25-02-2011 20:01
+# Auto generated 08-05-2011 21:40
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -29,7 +29,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '0.0.2',
+	'version' => '0.1.0',
 	'constraints' => array(
 		'depends' => array(
 			'cms' => '',
@@ -41,7 +41,7 @@ $EM_CONF[$_EXTKEY] = array(
 		'suggests' => array(
 		),
 	),
-	'_md5_values_when_last_written' => 'a:5:{s:12:"ext_icon.gif";s:4:"dd0d";s:17:"ext_localconf.php";s:4:"a0fd";s:14:"ext_tables.php";s:4:"a0fd";s:16:"locallang_db.xml";s:4:"958e";s:35:"lib/class.tx_jftcaforms_tceFunc.php";s:4:"71bc";}',
+	'_md5_values_when_last_written' => 'a:11:{s:12:"ext_icon.gif";s:4:"dd0d";s:17:"ext_localconf.php";s:4:"a0fd";s:14:"ext_tables.php";s:4:"a0fd";s:16:"locallang_db.xml";s:4:"958e";s:14:"doc/manual.sxw";s:4:"9929";s:35:"lib/class.tx_jftcaforms_tceFunc.php";s:4:"0c7e";s:23:"res/extjs/ux/Spinner.js";s:4:"e3c6";s:28:"res/extjs/ux/SpinnerField.js";s:4:"0c44";s:28:"res/extjs/ux/css/Spinner.css";s:4:"119e";s:37:"res/extjs/ux/images/spinner-split.gif";s:4:"d228";s:31:"res/extjs/ux/images/spinner.gif";s:4:"7732";}',
 	'suggests' => array(
 	),
 );
